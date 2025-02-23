@@ -1,0 +1,2 @@
+﻿  Test.cpp
+F:\学习\数字视频处理\EnvironmentTest\Test.cpp(3,10): fatal  error C1083: 无法打开包括文件: “opencv2/core/core.hpp”: No such file or directory

@@ -1,0 +1,8 @@
+﻿  实验1.cpp
+F:\学习\数字视频处理\EnvironmentTest\实验1.cpp(40,50): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\学习\数字视频处理\EnvironmentTest\实验1.cpp(202,10): warning C4101: “j”: 未引用的局部变量
+  EnvironmentTest.vcxproj -> F:\学习\数字视频处理\EnvironmentTest\x64\Debug\EnvironmentTest.exe
